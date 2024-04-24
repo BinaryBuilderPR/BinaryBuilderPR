@@ -3,14 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsPiyush01&label=Profile%20views&color=0e75b6&style=flat" alt="itsPiyush01" /> </p>
 
+
+
+<h3>🌱 Starting Anew: Fresh Beginnings</h3>
+
+After a setback that wiped out my previous work, I'm embracing this opportunity to start afresh and embark on a new development journey. This repository marks the beginning of a new chapter, where I'll be rebuilding and innovating in exciting new ways.
+
+<h3>Repository Overview:</h3>
+<b>Projects: </b>  I'll be reimagining and recreating my projects from scratch, exploring fresh ideas and approaches.
+
+<b>Development Journey: </b> Join me as I document my progress, insights, and learnings along this new path.
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 👨‍🎓 &nbsp; B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)**
 
-- 🌱 &nbsp; Currently learning React Native
+- 🌱 &nbsp; Currently Learning Spring Boot
 - 🥅 &nbsp; 2024 Goals: Contribute more to Open Source projects
-- 📫 How to reach me **piyushranjan1402@gmail.com**
+- 📫 How to reach me **developer.piyushranjan@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -48,6 +60,4 @@
 
 </p>
 
-<h3 align="center">🚨 Notice: My previous GitHub account is banned. For the progress of your ticket, please visit [this link](https://support.github.com/ticket/personal/0/2712603).</h3>
-
-
+### 🚨 Notice: My previous GitHub account is banned. [this link](https://support.github.com/ticket/personal/0/2712603).

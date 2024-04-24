@@ -60,4 +60,4 @@ After a setback that wiped out my previous work, I'm embracing this opportunity 
 
 </p>
 
-### 🚨 Notice: My previous GitHub account is banned. [this link](https://support.github.com/ticket/personal/0/2712603).
+### 🚨 Notice: My previous GitHub account is banned. [this link](https://drive.google.com/file/d/1l_g_vwAPeXfwYbHPx1Bnq_QcLnH4RM85/view?usp=sharing)
